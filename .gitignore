@@ -1,0 +1,21 @@
+# Ignore NuGet files
+*.nuget.dgspec.json
+project.assets.json
+project.nuget.cache
+
+# Ignore MSBuild files
+*.props
+*.targets
+
+# Ignore editor config files
+*.editorconfig
+
+# Ignore build output files
+*.FileListAbsolute.txt
+*.AssemblyInfoInputs.cache
+*.AssemblyInfo.cs
+*.CoreCompileInputs.cache
+
+# Ignore bin and obj directories
+bin/
+obj/
